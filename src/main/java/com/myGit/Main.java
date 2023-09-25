@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hello idea!");
         System.out.println("Hello idea!");
         System.out.println("Hello idea!");
+        System.out.println("pull test!");
     }
 }
